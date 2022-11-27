@@ -1,0 +1,5 @@
+*.dll
+*.lib
+.vs
+/Debug
+SDL Poker/Debug
